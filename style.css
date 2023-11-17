@@ -149,6 +149,7 @@ body{
     position: relative;
     font-size: 32px;
     text-transform: uppercase;
+    text-shadow: 6px 6px 4px rgb(0, 0, 0);
     
 }
 
