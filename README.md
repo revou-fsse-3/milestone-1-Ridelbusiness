@@ -112,3 +112,8 @@ or this free site link: [funny-palmier-8e05ba.netlify.app](https://funny-palmier
 11. After the site done check again
 
 ![Alt text](readme_assets/a31.png)
+
+
+## Design Consideration
+
+I like Studio Ghibli so I want to build it.
