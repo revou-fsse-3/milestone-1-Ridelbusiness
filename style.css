@@ -203,7 +203,7 @@ body{
 }
 
 .productItem{
-    background-color: grey;
+    background-color: rgb(198, 198, 198);
     
 }
 
@@ -267,9 +267,11 @@ body{
     width: 30px;
     border: solid 3px white;
     cursor: pointer;
+    border-radius: 25px;
     margin: 0 10px;
     
 }
+
 
 .item3 label:hover{
     background-color: blue;
@@ -429,7 +431,21 @@ body{
     background-color: rgb(226, 43, 70);
 }
 
+.filmGrey:hover{
+    animation: beGrey 6s infinite;
+}
 
+@keyframes beGrey {
+    0% {
+        filter: grayscale(0%);
+    }
+    50% {
+        filter: grayscale(100%);
+    }
+    100% {
+        filter: grayscale(0%);
+    }
+  }
 
 
 /* about us section */
