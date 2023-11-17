@@ -721,6 +721,207 @@ footer{
         font-size: 24px;
         
     }
+
+    .filmContainer{
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(12, 300px);
+        gap: 10px;
+        width: 100%;
+        position: relative;
+        
+    }
+    
+    
+    
+    
+    .imageFilm img{
+        width: 100vw;
+        height: 250px;
+        object-fit: cover;
+    }
+    
+    .imageFilm figcaption{
+        text-align: center;
+        color: white;
+        font-size: 12px;
+        text-transform: capitalize;
+        padding-top: 10px;
+    }
+    
+    .film1{
+        grid-column: 1 / span 1;
+        grid-row: 1 /span 1;
+        background-color: rgb(76, 43, 226);
+    }
+    
+    .film2{
+        grid-column: 1 / span 1;
+        grid-row: 2 /span 1;
+        background-color: rgb(226, 168, 43);
+    }
+    
+    .film3{
+        grid-column: 1 / span 1;
+        grid-row:3 /span 1;
+        background-color: rgb(226, 43, 70);
+    }
+    
+    .film4{
+        grid-column: 1 / span 1;
+        grid-row: 4 /span 1;
+        background-color: rgb(226, 134, 43);
+    }
+    
+    .film5{
+        grid-column: 1 / span 1;
+        grid-row: 5 /span 1;
+        background-color: rgb(201, 106, 23);
+    }
+    
+    .film6{
+        grid-column: 1 / span 1;
+        grid-row: 6 /span 1;
+        background-color: rgb(76, 43, 226);
+    }
+    
+    .film7{
+        grid-column: 1 / span 1;
+        grid-row: 7 /span 1;
+        background-color: rgb(226, 168, 43);
+    }
+    
+    .film8{
+        grid-column: 1 / span 1;
+        grid-row: 8 /span 1;
+        background-color: rgb(150, 43, 226);
+    }
+    
+    .film9{
+        grid-column: 1 / span 1;
+        grid-row: 9 /span 1;
+        background-color: rgb(201, 106, 23);
+    }
+    
+    .film10{
+        grid-column: 1 / span 1;
+        grid-row: 10 /span 1;
+        background-color: rgb(76, 43, 226);
+    }
+    
+    .film11{
+        grid-column: 1 / span 1;
+        grid-row: 11 /span 1;
+        background-color: rgb(226, 168, 43);
+    }
+    
+    .film12{
+        grid-column: 1 / span 1;
+        grid-row: 12 /span 1;
+        background-color: rgb(226, 43, 70);
+    }
+    
+
+    .aboutSection h1{
+        
+        font-size: 20px;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    
+    .aboutContainer{
+        padding: 0px;
+        margin: 0px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(8, 300px);
+        gap: 10px;
+        width: 100%;
+        position: relative;
+    }
+    
+    .aboutContent{
+        padding: 5px 10px;
+    }
+    
+    .aboutContent h2{
+        text-transform: capitalize;
+        padding-bottom: 20px;
+        font-size: 16px;
+    }
+    
+    .creatorsContent{
+        padding-left: 0px;
+        
+    }
+    .creatorsContent img{
+        width: 780px;
+        height: 290px;
+        object-fit: cover;
+    }
+    
+    .infoCreators{
+        padding: 15px 30px;
+        border-radius: 5px;
+        background-color: rgb(56, 82, 123);
+        color: white;
+    }
+    
+
+    .about1, .about2, .about3, .about4,.about5, .about6, .about7, .about8{
+        width: 100vw;
+    }
+
+    .about1{
+        grid-column: 1 / span 1;
+        grid-row: 1 /span 1;
+        background-color: rgb(226, 43, 70);
+    }
+    .about2{
+        grid-column: 1 / span 1;
+        grid-row: 2 /span 1;
+        background-color: rgb(226, 168, 43);
+    }
+    
+    .about3{
+        grid-column: 1 / span 1;
+        grid-row:3 /span 1;
+        background-color: rgb(226, 43, 70);
+    }
+    
+    .about4{
+        grid-column: 1 / span 1;
+        grid-row: 4 /span 1;
+        background-color: rgb(226, 134, 43);
+    }
+    
+    .about5{
+        grid-column: 1 / span 1;
+        grid-row: 5 /span 1;
+        background-color: rgb(201, 106, 23);
+    }
+    
+    .about6{
+        grid-column: 1 / span 1;
+        grid-row: 6 /span 1;
+        background-color: rgb(76, 43, 226);
+    }
+    
+    .about7{
+        grid-column: 1 / span 1;
+        grid-row: 7 /span 1;
+        background-color: rgb(226, 168, 43);
+    }
+    
+    .about8{
+        grid-column: 1 / span 1;
+        grid-row: 8 /span 1;
+        background-color: rgb(150, 43, 226);
+    }
+
+
 }
 
 
@@ -858,7 +1059,7 @@ footer{
         
       }
 
-      .filmContainer{
+    .filmContainer{
         margin: 0 auto;
         display: grid;
         grid-template-columns: repeat(1, 1fr);

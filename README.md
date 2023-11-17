@@ -1,10 +1,10 @@
 # DEPLOYMENT  
 
-The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [http://catwalrus.site](http://catwalrus.site) 
+The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [http://bronya.site](http://bronya.site) 
 
-or this free site link: [https://ornate-banoffee-39e0b4.netlify.app](https://ornate-banoffee-39e0b4.netlify.app).
+or this free site link: [funny-palmier-8e05ba.netlify.app](https://funny-palmier-8e05ba.netlify.app).
 
-![Alt text](readme_assets/img1.png)
+![Alt text](readme_assets/a100.png)
 
 ## Github deployment
 1. Create Repo in Github and then clone it to local
