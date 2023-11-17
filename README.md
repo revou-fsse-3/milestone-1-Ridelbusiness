@@ -109,8 +109,9 @@ or this free site link: [funny-palmier-8e05ba.netlify.app](https://funny-palmier
 
 ![Alt text](readme_assets/a30.png)
 
-11. After the site done check again
+11. After the site done check again in netlify and the link
 
+![Alt text](readme_assets/a32.png)
 ![Alt text](readme_assets/a31.png)
 
 
